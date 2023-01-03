@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bjarne Kristensen on Bjarne Kristensen | Portfolio</title>
+    <link>http://localhost/</link>
+    <description>Recent content in Bjarne Kristensen on Bjarne Kristensen | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2023 23:35:41 +0100</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost/blog/first-post/</link>
+      <pubDate>Tue, 03 Jan 2023 23:35:41 +0100</pubDate>
+      
+      <guid>http://localhost/blog/first-post/</guid>
+      <description>First Post </description>
+    </item>
+    
+  </channel>
+</rss>
